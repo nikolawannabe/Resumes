@@ -26,7 +26,9 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
 * Developed and prototyped a testing strategy for the client side using the Selenium library.
 
 ### Western Washington University,  *2005-2008*
+
 > *Bachelors of Science in Computer Science*
+
 #### Program Support Staff, *2007-2008*
 * Developed purpose-specific web applications on request, including working on the department website and developing a browser-based password reset mechanism for students using CAS (Central Authentication System).
 * Debugged and created solutions for hardware and software issues with lab computers in Windows, Linux, and OSX.
@@ -39,7 +41,9 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
 * Researched and experimented with front-end web technologies including Flash, openLazlo, and Javascript libraries.
 
 ### Olin College, *2002-2005*
+
 > *Studied electronics computer engineering before transferring to Western for computer science.*
+
 #### Research Assistant, *2003*
 * Developed a web application for summer residence directors and associates log communications, using Drupal, PHP, CSS, Javascript, and HTML which is easily maintained by their current non-technical staff.
 * Researched and experimented with front-end web technologies including Flash, openLazlo, and Javascript libraries.
