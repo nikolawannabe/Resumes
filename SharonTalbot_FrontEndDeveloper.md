@@ -4,7 +4,7 @@
 * 360-477-1281
 
 ## Introduction ##
-I'm a developer, and the best reason to consider hiring me is my consistent focus on high quality work with excellent usability.  I'm passionate about the projects I work on and about making great interfaces with solid code.
+I'm a developer, and the best reason to consider hiring me is my consistent focus on high quality work with excellent usability.  I'm passionate about the projects I work on and about making great interfaces backed by solid code.
 
 ## Technical Skills ##
 
@@ -45,6 +45,7 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
 > *Studied electronics computer engineering before transferring to Western for computer science.*
 
 #### Research Assistant, *2003*
-* Developed a web application for summer residence directors and associates log communications, using Drupal, PHP, CSS, Javascript, and HTML which is easily maintained by their current non-technical staff.
-* Researched and experimented with front-end web technologies including Flash, openLazlo, and Javascript libraries.
+* Developed an informational website documenting Dr. Somerville’s work.
+* Researched high electron mobility transistors, and prepared detailed summary material to aid in the  re-introduction of Dr. Somerville to the field after an absence of several years.
+
 
