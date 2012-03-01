@@ -10,7 +10,7 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
 
  > *Proficient in*: C#, Python, Javascript, HTML, CSS, WPF, MSTest, NUnit
  
- > *Experience with*: C/C++, Java, Ruby, Mono/GTK#, 
+ > *Experience with*: C/C++, Java, Ruby, Mono/GTK#
 
 ## Professional History 
 ### Moxie Software
