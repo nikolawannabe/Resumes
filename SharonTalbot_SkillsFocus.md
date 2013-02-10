@@ -18,7 +18,7 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
  
  >  Javascript, Sencha and Sencha Touch, HTML5, CSS3, SASS, ASP.NET MVC, C#, WPF, WCF, REST, Windows Workflow
 
-* Designed and implemented a REST API for content creation.
+* Designed and implemented a REST API for content creation utilizing SOLID development principles.
 * Designed and developed a configurable and customizable smartphone mobile interface using the Javascript library Sencha Touch for knowledge management end users.
 * Maintained and developed new functionality for a feature rich desktop browser interface using the Javascript library ExtJS for knowledge management end users.
 * Maintained and enhanced a private API to support a complex product, as well as a public API web service.
