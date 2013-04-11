@@ -8,7 +8,7 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
 
 ## Technical Skills ##
 
- > *Proficient in*: C#, Python, Javascript, HTML, CSS, WPF, MSTest, NUnit
+ > *Proficient in*: C#, Python, Javascript, HTML, CSS, WPF, WCF, MSTest, NUnit
  
  > *Experience with*: C/C++, Java, Ruby, Mono/GTK#
 
