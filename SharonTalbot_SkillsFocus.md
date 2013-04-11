@@ -21,7 +21,7 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
 * Designed and implemented a REST API for content creation utilizing SOLID development principles.
 * Designed and developed a configurable and customizable smartphone mobile interface using the Javascript library Sencha Touch for knowledge management end users.
 * Maintained and developed new functionality for a feature rich desktop browser interface using the Javascript library ExtJS for knowledge management end users.
-* Maintained and enhanced a private API to support a complex product, as well as a public API web service.
+* Maintained and enhanced a private API to support a complex product, as well as a public SOAP API web service.
 * Conducted in-depth code reviews for security in all components of the project, particularly with respect to SQL injection, XSS prevention, and securing of sensitive data.
 
 #### Software Development Engineer in Test, *2009-2010*
