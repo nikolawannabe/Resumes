@@ -13,8 +13,15 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
  > *Experience with*: C/C++, Java, Ruby, Mono/GTK#
 
 ## Professional History 
+
+### Smashwords
+#### Software Development Engineer, *2013 - present*
+* Designed and implemented the daily reports backend and user interface using Go, Rabbit, NVD3, D3, and AngularJS, providing authors with an easy use tool to understand the impact of their marketing campaigns.
+* Designed and implemented a book delivery feature utilizing RabbitMQ and Go with an AngularJS frontend that integrated with Dropbox and the Kindle.
+* Designed and implemented an author interview feature with an AngularJS frontend.
+
 ### Moxie Software
-#### Software Development Engineer,  *2010 - present*
+#### Software Development Engineer,  *2010 - 2013*
 
 * Designed and developed a configurable and customizable smartphone mobile interface using the Javascript library Sencha Touch for knowledge management end users.
 * Maintained and developed new functionality for a feature rich desktop browser interface using the Javascript library ExtJS for knowledge management end users.
