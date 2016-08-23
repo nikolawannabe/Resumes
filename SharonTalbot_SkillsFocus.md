@@ -8,13 +8,24 @@ I'm a developer, and the best reason to consider hiring me is my consistent focu
 
 ## Technical Skills ##
 
- > *Proficient in*: C#, Python, Javascript, HTML, CSS, WPF, WCF, MSTest, NUnit
+ > *Proficient in*: Golang, Javascript, HTML, CSS, C#, Python
  
- > *Experience with*: C/C++, Java, Ruby, Mono/GTK#
+ > *Experience with*: C/C++, Java, Ruby
 
 ## Professional History 
+
+### Smashwords
+#### Software Development Engineer, *2013 - present*
+
+ > Golang, Javascript, AngularJS, D3 (nvd3/angularjs), RabbitMQ, Vagrant
+
+* Designed and implemented an eBook delivery system so our readers could have their purchases delivered to their eReader quickly and easy.  Utilized: RabbitMQ, Golang for delivery with a frontend with a REST api and AngularJS for configuration.
+* Designed and implemented a system which collected and stored book sales from multiple disparate retailers and displayed the results to the user in near-real time.  Utilized: Backend: RabbitMQ, Golang for fetching, parsing, and storage with cloud apis.  Frontend: AngularJS and NVD3.
+* Conversion of user-facing site from hand-built CSS and Javascript to Bootstrap and AngularJS where appropriate as part of a "modernization" project.
+* Conversion where and when appropriate from PHP Codeigniter framework to restful APIs in Golang with AngularJS frontend.
+
 ### Moxie Software
-#### Software Development Engineer,  *2010 - present*
+#### Software Development Engineer,  *2010 - 2013*
  
  >  Javascript, Sencha and Sencha Touch, HTML5, CSS3, SASS, ASP.NET MVC, C#, WPF, WCF, REST, Windows Workflow
 
